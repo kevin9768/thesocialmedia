@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1666665546409" clover="3.2.0">
+  <project timestamp="1666665546409" name="All files">
+    <metrics statements="49" coveredstatements="49" conditionals="13" coveredconditionals="13" methods="19" coveredmethods="17" elements="81" coveredelements="79" complexity="0" loc="49" ncloc="49" packages="1" files="4" classes="4"/>
+    <file name="authSlice.ts" path="/home/poyushih/HW4/thesocialmedia/src/app/authSlice.ts">
+      <metrics statements="21" coveredstatements="21" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="4"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="250" count="4" type="stmt"/>
+      <line num="255" count="4" type="stmt"/>
+      <line num="256" count="4" type="stmt"/>
+      <line num="257" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="258" count="3" type="stmt"/>
+      <line num="259" count="3" type="stmt"/>
+      <line num="260" count="3" type="stmt"/>
+      <line num="261" count="3" type="stmt"/>
+      <line num="265" count="2" type="stmt"/>
+      <line num="266" count="2" type="stmt"/>
+      <line num="269" count="2" type="stmt"/>
+      <line num="270" count="2" type="stmt"/>
+      <line num="271" count="2" type="stmt"/>
+      <line num="272" count="2" type="stmt"/>
+      <line num="275" count="2" type="stmt"/>
+      <line num="276" count="2" type="stmt"/>
+      <line num="277" count="2" type="stmt"/>
+      <line num="278" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="279" count="1" type="stmt"/>
+      <line num="284" count="4" type="stmt"/>
+    </file>
+    <file name="hooks.ts" path="/home/poyushih/HW4/thesocialmedia/src/app/hooks.ts">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="postsSlice.ts" path="/home/poyushih/HW4/thesocialmedia/src/app/postsSlice.ts">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="5" methods="8" coveredmethods="8"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="615" count="100" type="stmt"/>
+      <line num="616" count="100" type="stmt"/>
+      <line num="617" count="100" type="stmt"/>
+      <line num="618" count="100" type="stmt"/>
+      <line num="620" count="1" type="stmt"/>
+      <line num="621" count="100" type="stmt"/>
+      <line num="625" count="600" type="stmt"/>
+      <line num="626" count="6" type="stmt"/>
+      <line num="629" count="600" type="cond" truecount="2" falsecount="0"/>
+      <line num="633" count="234" type="stmt"/>
+      <line num="637" count="240" type="cond" truecount="3" falsecount="0"/>
+      <line num="646" count="4" type="stmt"/>
+    </file>
+    <file name="store.ts" path="/home/poyushih/HW4/thesocialmedia/src/app/store.ts">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="12" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="18" count="4" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="32" count="4" type="stmt"/>
+      <line num="38" count="5" type="stmt"/>
+      <line num="45" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>
